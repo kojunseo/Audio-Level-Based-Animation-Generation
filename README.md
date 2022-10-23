@@ -3,13 +3,13 @@
 ## Inference
 ### 1. Prepare three images
 * close mouth
-![image](./src/close.png)
+![image](./src/close.png =250x)
 
 * Half open mouth
-![image](./src/middle.png)
+![image](./src/middle.png =250x)
 
 * Open mouth
-![image](./src/open.png)
+![image](./src/open.png =250x)
 
 
 ### 2. Prepare Speech Audio
